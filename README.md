@@ -1,6 +1,7 @@
 ## Hello World! I'm Nikolaj Aleksejenkov 😎
 
 ### 💬 About me:
+<img src="assets/homer.gif" alt="head empty" width="150" height="150" align="right"/>&nbsp;
 - 🤓 I'm a full stack developer from ![Static Badge](https://img.shields.io/badge/%F0%9F%87%B1%F0%9F%87%BBLatvia-red?style=plastic).
 - 🧑‍💻 Passionate about learning new cool stuff about tech and more.
 - 📆 I use daily: **.js, .java, .sql**
