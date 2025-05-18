@@ -4,13 +4,14 @@
 <img src="assets/homer.gif" alt="head empty" width="150" height="150" align="right"/>&nbsp;
 - 🤓 I'm a full stack developer from ![Static Badge](https://img.shields.io/badge/%F0%9F%87%B1%F0%9F%87%BBLatvia-red?style=plastic).
 - 🧑‍💻 Passionate about learning new cool stuff about tech and more.
-- 📆 I use daily: **.js, .java, .sql**
+- 📆 Mainly use:
+   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
+   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white)
+   , but like to dabble in other frameworks and tools
 - 📕 I'm currently learning:
    ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
    ![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)
-   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
-   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
-- 😭 Need to finish my ideal work setup.
+
 
 ## 🛠 Technologies and tools
 
@@ -28,6 +29,8 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
